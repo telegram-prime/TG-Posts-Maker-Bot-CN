@@ -11,35 +11,35 @@
  - 创建具有内容的帖子：
      * 短信;
      * 图像;
-     *视频是普通的；
-     *视频圈；
+     * 视频是普通的；
+     * 视频圈；
      * gif动画;
-     *音频文件；
-     *语音消息；
-     *文档PDF，DOCX，XSLX，TXT;
-     *任何其他文件格式。
-   - 能够同时启动许多机器人并从程序的界面控制它们。
-   - 设置未成功尝试向发送帐户发布帖子的尝试的能力。
-   - 能够为已发送的每个已发送文件设置描述。
-   - 在文本帖子中的简单介绍中，Spinintakc，格式：[text_1 | text_2 |。
-   -  [ICODE] MARKDOWN [/ICODE]格式，用于在媒体文件的描述或通常的Teskt帖子中创建超链接，格式[ICODE] [link Text]（https://www.example.com）[/ ICODE]也得到了支持。
-   - 能够在帖子下和没有按钮下使用按钮创建帖子的能力。
-   - 能够选择每个帖子的按钮数量以及行中的按钮数量的能力。
-   - 创建按钮时，支持Spintakc，格式：[ICODE] {button1 | button2} | {https | http}：//example1.com/ | {https | （创建大量帖子）。
-   - 按钮中每个链接的能力以[ICODE] https://example1.com?jd73hddsk83 [/icode]的形式添加一个随机变量。
-   - 能够以表格中的链接创建到帖子的链接：[ICODE] https：//t.me/yourbotname_bot？start = c747ca0a61d46131 [/icode]。
-   - 可以为机器人分别创建默认帖子（又称帖子）的能力。 那些。 在任何过渡到机器人（直接在用户名上）时，该帖子将显示给每个访问者。 它可能与为邮寄设计的创建帖子有所不同。
-   - 构建 - 图像和视频的随机器。
-   - 在视频中的普通视频的转换器中构建 - 在一个圆圈中。
-   - 通过代理启动机器人的能力。
-   - 能够在一定时间段内运行机器人。
-   - 创建SO帖子的能力 “通过频道的海峡”，即 该机器人将代表频道采用媒体或文本，而不是来自机器人。
-   - 能够在一台PC的框架内运行多个机器人。
-   - 将钥匙绑定到腺体，并可能重置钥匙。 重置是免费的。
-   - 机器人内部的详细步骤 - 按步骤指令。
-   - 四种语言的bot dotsupen：🇺🇸🇺🇸🇨🇳。
-   - 免费更新。
-  - 在线支持。
+     * 音频文件；
+     * 语音消息；
+     * 文档PDF，DOCX，XSLX，TXT;
+     * 任何其他文件格式。
+ - 能够同时启动许多机器人并从程序的界面控制它们。
+ - 设置未成功尝试向发送帐户发布帖子的尝试的能力。
+ - 能够为已发送的每个已发送文件设置描述。
+ - 在文本帖子中的简单介绍中，Spinintakc，格式：[text_1 | text_2 |。
+ -  [ICODE] MARKDOWN [/ICODE]格式，用于在媒体文件的描述或通常的Teskt帖子中创建超链接，格式[ICODE] [link Text]（https://www.example.com）[/ ICODE]也得到了支持。
+ - 能够在帖子下和没有按钮下使用按钮创建帖子的能力。
+ - 能够选择每个帖子的按钮数量以及行中的按钮数量的能力。
+ - 创建按钮时，支持Spintakc，格式：[ICODE] {button1 | button2} | {https | http}：//example1.com/ | {https | （创建大量帖子）。
+ - 按钮中每个链接的能力以[ICODE] https://example1.com?jd73hddsk83 [/icode]的形式添加一个随机变量。
+ - 能够以表格中的链接创建到帖子的链接：[ICODE] https：//t.me/yourbotname_bot？start = c747ca0a61d46131 [/icode]。
+ - 可以为机器人分别创建默认帖子（又称帖子）的能力。 那些。 在任何过渡到机器人（直接在用户名上）时，该帖子将显示给每个访问者。 它可能与为邮寄设计的创建帖子有所不同。
+ - 构建 - 图像和视频的随机器。
+ - 在视频中的普通视频的转换器中构建 - 在一个圆圈中。
+ - 通过代理启动机器人的能力。
+ - 能够在一定时间段内运行机器人。
+ - 创建SO帖子的能力 “通过频道的海峡”，即 该机器人将代表频道采用媒体或文本，而不是来自机器人。
+ - 能够在一台PC的框架内运行多个机器人。
+ - 将钥匙绑定到腺体，并可能重置钥匙。 重置是免费的。
+ - 机器人内部的详细步骤 - 按步骤指令。
+ - 四种语言的bot dotsupen：🇺🇸🇺🇸🇨🇳。
+ - 免费更新。
+ - 在线支持。
 
 
 ## T4BT Bot运行模式。
@@ -81,17 +81,13 @@
 ## 屏幕截图:
 
 
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/32f2bb2d-946c-45e2-817e-ddc3ae196752" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/4ed2f1b0-c4f9-463c-a1d6-e867d936b8f9" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/37611e3e-3246-438e-94bf-4e06229d78a8" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/72c2d104-5b4f-4e48-934f-92cc4b57ceec" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/26849652-e03b-4720-b576-63d7e1ebe883" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/f6159d53-1b37-46fc-8627-488a5abf22c8" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/a43a3b5c-4fc3-42cf-b9a7-bc9bf12c8ec8" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/f5cb88c5-62fa-4f16-962e-51d4bbdb3ee3" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/58f124be-9cb5-432b-93ee-afba6f5d77e5" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/7bebc3e8-e0ea-4691-ba33-502766ac91ef" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/977d1a25-1746-40cf-87d1-33924bf44838" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/3a65c150-2314-4002-91e5-333b601edb2c" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/7078bc67-dfef-4de3-8859-21c4bf922ad4" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/5f38a3a8-a43c-40cf-a50b-9c263bf9be3a" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/38d8acbf-2b86-46f8-9153-e686202dd96b" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/1805e348-4f7c-4db0-ab7c-83bff1b2e57a" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/c12938b9-7eb1-477f-9b64-3f290b835307" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/4b1f9e2e-bf05-47f1-a14d-a309270d6751" width="200" height="200">
 
 
 
